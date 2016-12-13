@@ -1,5 +1,9 @@
-Description: The program generates and displays random combinatorics problems in the range n = [3...12] and r in [1...n], 
-then prompts the user for an answer, and finally lets user know if they are correct or not.
-The program will repeat until the student chooses to quit.
+Description: This program exhibits a basic understanding of assembly language (masm) including functions, macros, and handling input/output.
 
-NOTE: User's numeric input read as string, validated, then converted to int
+The program does the following:
+1) Generates and displays random combinatorics problems in the range n = [3...12] and r in [1...n]
+2) Prompts user for answer, which is read in as a string, then validated and converted to an int
+3) Recursively solves the problem
+4) Tells the user if they were right or wrong
+5) Asks user if they would like another problem or would like to quit
+
