@@ -1,8 +1,7 @@
-##########################################
+####################################################
 ## Author: Stephen Griffin
-## Date: November 22, 2015
-## Description: Makefile for Assignment 4
-##########################################
+## Description: Makefile for Tournament of Creatures
+####################################################
  
 CXX = g++
 CXXFLAGS = -std=c++0x
